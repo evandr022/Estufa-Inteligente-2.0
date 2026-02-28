@@ -59,3 +59,7 @@ O sistema realiza o envio de dados via POST HTTP para o endpoint `/cofre-data` n
   "umidade": 60.0,
   "status": "ABERTO"
 }
+```
+## Video
+https://drive.google.com/drive/folders/1kf4aFzvioK7A127l6sUpoVyXaascDTaU?usp=sharing
+
